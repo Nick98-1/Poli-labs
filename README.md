@@ -31,7 +31,7 @@
 
 
 
-### ARISTOTLE
+### 🏛️ ARISTOTLE
 
 #### Infrastructure Souveraine pour la Construction du Raisonnement et l'Argumentation Stratégique
 
