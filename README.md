@@ -1,5 +1,5 @@
 
-### ARISTOTLE
+### 🏛️ ARISTOTLE
 #### Sovereign Infrastructure for the Construction of Reasoning and Formal Argumentation
 
 **Section 1: Object of the Infrastructure**
