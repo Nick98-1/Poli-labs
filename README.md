@@ -9,6 +9,7 @@
 **Section 2: Problem and Resolution**
 
 2.1. The fundamental problem addressed by this platform is the fragmentation of argumentation. In current digital environments, information is processed in an atomized manner, which undermines the cohesion of thought and the integrity of the reasoning process.
+
 2.2. Aristotle does not propose a technical or scientific calculation, but rather a support for the intellectual act. The platform resolves the difficulty of argumentative assembly, facilitating the drafting of reports, legislative texts, or policy proposals through the strength of the discursive link.
 
 **Section 3: Operating Principles**
